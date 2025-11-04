@@ -88,3 +88,21 @@ When it comes to state-specific subcategories, New York is a great place for mac
 -The consumer segment generates the highest profit out of the three, followed by the corporate and home office segments.
 
 
+<img width="4672" height="1757" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/5c0d2e10-e0ff-4e17-94ad-3474bf7102de" />
+
+
+<img width="4403" height="1765" alt="Sales Dashboard 2" src="https://github.com/user-attachments/assets/99531e5e-a49e-4d08-8c9a-5225cd781066" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
